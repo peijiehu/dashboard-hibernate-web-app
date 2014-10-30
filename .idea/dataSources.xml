@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1504273775">
+    <data-source source="LOCAL" name="SQLite - dashboard" uuid="d63e4c99-5bd1-42da-8815-f7822902c840">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$USER_HOME$/dashboard.db</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/apache-tomcat-7.0.56/lib/sqlite-jdbc-3.7.6.3-20110609.081603-3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
